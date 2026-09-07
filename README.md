@@ -14,7 +14,7 @@ A detailed 3D model of the Leica Q3 camera, modeled entirely from scratch in Ble
 
 ![1](/shots/001.png)
 
-![2](/shots/003.png)
+![2](/shots/002.png)
 
 ![3](/shots/003.png)
 
