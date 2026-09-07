@@ -12,13 +12,16 @@ A detailed 3D model of the Leica Q3 camera, modeled entirely from scratch in Ble
 
 ## Renders & Media
 
-![1](/shots/001.png)
-
-![2](/shots/002.png)
-
-![3](/shots/003.png)
-
-![4](/shots/004.png)
+<table>
+<tr>
+<td><img src="/shots/001.png" width="400"></td>
+<td><img src="/shots/002.png" width="400"></td>
+</tr>
+<tr>
+<td><img src="/shots/003.png" width="400"></td>
+<td><img src="/shots/004.png" width="400"></td>
+</tr>
+</table>
 
 ## Demos
 
@@ -31,3 +34,4 @@ A detailed 3D model of the Leica Q3 camera, modeled entirely from scratch in Ble
 * **Focus:** Modeling & Texturing
 * **Time Spent:** 15+ hours
 * **Status:** Completed
+
