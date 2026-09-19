@@ -30,6 +30,15 @@ A detailed 3D model of the Leica Q3 camera, modeled entirely from scratch in Ble
 
 **3D Model:** [View the 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/leica-q3-csmera-4a851051709740828550677a97dcb156)
 
+## License
+
+Licensed under **CC BY-NC 4.0**.
+You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
+
+**Commercial use or resale requires permission.**
+
+[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Project Info
 
 * **Software:** Blender
