@@ -13,11 +13,16 @@ A detailed 3D model of the Leica Q3 camera, modeled entirely from scratch in Ble
 
 ## Workflow
 
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
+
 * **Modeling:** Built the camera using cubes, cylinders, and other basic shapes, then refined the forms with Subdivision Surface.
 * **Details:** Added the camera body, lens, buttons, dials, screen, and other small components based on the reference images.
 * **Texturing:** Created the materials and textures from the reference images and added additional surface detail using bump and normal maps.
-
-## Renders & Media
 
 <table>
 <tr>
